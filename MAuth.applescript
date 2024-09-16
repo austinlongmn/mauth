@@ -56,7 +56,7 @@ on run {input, parameters}
 		-- Click past the "Do not ask me again" page
 		tell application "Safari"
 			activate
-			set theCode to do JavaScript "document.getElementById('KmsiCheckboxField').checked = true" in document 1
+			do JavaScript "document.getElementById('KmsiCheckboxField').checked = true" in document 1
 			do JavaScript "document.getElementById('idSIButton9').click()" in document 1
 		end tell
 	end tell
