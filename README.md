@@ -13,7 +13,7 @@ The current version is v1.0.0
 ## Installation
 
 You must copy the [MAuth.applescript](MAuth.applescript) file and paste it into
-a Shortcut with an Run AppleScript action. Alternatively, you can use the
+a Shortcut with a Run AppleScript action. Alternatively, you can use the
 shortcut I created
 [here](https://www.icloud.com/shortcuts/7889ff6e382f4f528c3a18b2c0ff2854).
 
