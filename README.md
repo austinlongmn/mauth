@@ -6,6 +6,10 @@ Automate Microsoft Authenticator requests in Safari
 
 Requires macOS Sequoia 15 or later.
 
+## Version
+
+The current version is v1.0.0
+
 ## Installation
 
 You must copy the [MAuth.applescript](MAuth.applescript) file and paste it into a Shortcut with an Run AppleScript action. Alternatively, you can use the shortcut I created [here](https://www.icloud.com/shortcuts/932d45b94177496fa36044470ac88893).
