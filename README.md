@@ -15,7 +15,7 @@ The current version is v1.0.0
 You must copy the [MAuth.applescript](MAuth.applescript) file and paste it into
 a Shortcut with an Run AppleScript action. Alternatively, you can use the
 shortcut I created
-[here](https://www.icloud.com/shortcuts/bcb523910c13457aa4c41366ee1bc0ab).
+[here](https://www.icloud.com/shortcuts/7889ff6e382f4f528c3a18b2c0ff2854).
 
 Note that using this script requires setting up two things:
 
